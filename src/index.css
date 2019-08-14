@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Do Hyeon', monospace ;
+  background: linear-gradient(to right,#358448,#0061ff)
+}
+
+button{
+  cursor: pointer;
+}
